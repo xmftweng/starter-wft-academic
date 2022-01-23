@@ -39,7 +39,7 @@ abstract: The outbreak of news and opinions during the COVID-19 pandemic is unpr
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+# featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -67,16 +67,16 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
+# slides: example
+# ---
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
