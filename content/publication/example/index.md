@@ -40,9 +40,9 @@ url_pdf: ''
 
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors .
+Click the *Cite* button.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* .
+Create your slides in Markdown.
 {{% /callout %}}
