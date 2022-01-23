@@ -1,12 +1,13 @@
 ---
-title: "An example conference paper"
+title: "Volatility forecasting of crude oil futures based on a genetic algorithm regularization online extreme learning machine with a forgetting factor: The role of news during the COVID-19 pandemic"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Robert Ford
+- Futian Weng
+- Hongwei Zhang
+- Cai Yang
 
 # Author notes (optional)
 author_notes:
