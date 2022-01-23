@@ -6,7 +6,7 @@ title: Futian Weng
 superuser: true
 
 # Role/position/tagline
-role: Artificial Intelligence
+role: PhD Student in Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.xmu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include functional data analysis, financial high-frequency data modeling, medical image processing, high-throughput sequencing, multi-omics data modeling and analysis, machine learning and deep learning algorithm research and application..
 
 # Interests to show in About widget
 interests:
