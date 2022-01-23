@@ -40,9 +40,9 @@ abstract: The outbreak of news and opinions during the COVID-19 pandemic is unpr
 
 
 {{% callout note %}}
-Click the *Cite* button.
+
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown.
+
 {{% /callout %}}
