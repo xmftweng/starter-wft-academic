@@ -37,3 +37,12 @@ abstract: The outbreak of news and opinions during the COVID-19 pandemic is unpr
 tags: []
 
 url_pdf: ''
+
+
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors .
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* .
+{{% /callout %}}
