@@ -42,11 +42,3 @@ abstract: In this paper, we introduce a new method based on Bernstein Neural Net
 #url_pdf: ''
 
 
-{{% callout note %}}
-Click the *Cite* button.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown.
-{{% /callout %}}
-
