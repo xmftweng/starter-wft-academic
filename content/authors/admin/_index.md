@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Weng Futian is a 2021 doctoral student in the medical school of Xiamen University, the National Research Institute of big data for health care of Xiamen University, and the data mining research center of Xiamen University. His supervisor is Professor Zhu Jianping. He graduated from the school of mathematics and statistics of Central South University and joined the team of the data mining research center of Xiamen University in September 2021. He has published several academic papers and written many working papers in SCI / SSCI journals such as Neural Processing Letters, Soft Computing, Journal of Digital Imaging, Annals of Biomedical Engineering and Resources Policy. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests include functional data analysis, financial high-frequency data modeling, medical image processing, high-throughput sequencing, multi-omics data modeling and analysis, machine learning and deep learning algorithm research and application.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
