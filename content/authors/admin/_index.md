@@ -71,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-Weng Futian is a 2021 doctoral student in the medical school of Xiamen University, the National Research Institute of big data for health care of Xiamen University, and the data mining research center of Xiamen University. His supervisor is Professor Zhu Jianping. He graduated from the school of mathematics and statistics of Central South University and joined the team of the data mining research center of Xiamen University in September 2021. He has published several academic papers and written many working papers in SCI / SSCI journals such as Neural Processing Letters, Soft Computing, Journal of Digital Imaging, Annals of Biomedical Engineering and Resources Policy. 
+Weng Futian is a 2021 PhD student in the medical school of Xiamen University, the National Research Institute of big data for health care of Xiamen University, and the data mining research center of Xiamen University. His supervisor is Professor Zhu Jianping. He graduated from the school of mathematics and statistics of Central South University and joined the team of the data mining research center of Xiamen University in September 2021. He has published several academic papers and written many working papers in SCI / SSCI journals such as Neural Processing Letters, Soft Computing, Journal of Digital Imaging, Annals of Biomedical Engineering and Resources Policy. 
 
 His research interests include functional data analysis, financial high-frequency data modeling, medical image processing, high-throughput sequencing, multi-omics data modeling and analysis, machine learning and deep learning algorithm research and application.
 
